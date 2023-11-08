@@ -9,9 +9,11 @@ echo $number1 + $number1;
 // Substraction
 echo $number1 - $number1;
 echo "<br>";
+// lower number(?
 
 // Multiply
 echo $number1 * $number2;
+
 
 // Divide
 echo $number1 / $number2;
